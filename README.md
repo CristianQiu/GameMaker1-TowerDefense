@@ -40,4 +40,4 @@ All of them will attack the nearest enemy until it goes out of range, have this 
 Have fun!
 
 # Preview
-![alt-text](./GithubImgs/TeaserGif.gif)
+![alt-text](./GithubImg/TeaserGif.gif)
