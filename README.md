@@ -38,3 +38,6 @@ The game was made with GameMaker 1.
 All of them will attack the nearest enemy until it goes out of range, have this in count for your strategy.
 
 Have fun!
+
+# Preview
+![alt-text](./GithubImg/TeaserGif.gif)
