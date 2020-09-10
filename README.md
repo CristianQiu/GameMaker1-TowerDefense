@@ -1,7 +1,7 @@
 # About
 This is the very first videogame I did at my first year at university, with the help of other classmates (Victor Ramos, Eloy Villanueva and Pablo Luengo).
 It is a tower defense in which you have to build towers to defend yourself from the attack of several species of birds.
-The game was made with GameMaker 1.
+The game was made with GameMaker Studio 1.
 
 # Controls
 
