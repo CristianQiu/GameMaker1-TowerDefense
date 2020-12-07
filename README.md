@@ -1,5 +1,5 @@
 # About
-This is the very first videogame I did at my first year at university, with the help of other classmates (Victor Ramos, Eloy Villanueva and Pablo Luengo).
+This is the very first videogame I did at my first year at university. It was developed with other classmates (Victor Ramos, Eloy Villanueva and Pablo Luengo).
 It is a tower defense in which you have to build towers to defend yourself from the attack of several species of birds.
 The game was made with GameMaker Studio 1.
 
@@ -7,11 +7,13 @@ The game was made with GameMaker Studio 1.
 
   - Right click to cancel buying a tower
 
-  - Press escape to pause the game and display the restart button (It'll lead you to back to the menu if you press it)
+  - Press escape to pause the game and display the restart button 
+  
+  - The restart button will lead you to back to the menu
 
   - Press escape again to return to the game
 
-  - The upgrade and sell buttons can be displayed pressing on the red triangle next to the fastforward and next wave buttons
+  - The upgrade and sell buttons can be displayed by pressing on the red triangle next to the fast forward and next wave buttons
 
 # Upgrades information
 
