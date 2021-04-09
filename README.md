@@ -7,13 +7,13 @@ The game was made with GameMaker Studio 1.
 
 - Press escape to pause the game and display the restart button.
   
-- The restart button will lead you to back to the menu.
+- The restart button will lead you back to the menu.
 
 - Press escape again to return to the game.
 
 - Right click to cancel buying a tower.
 
-- The upgrade and sell buttons can be displayed by pressing on the red triangle next to the fast forward and next wave buttons.
+- The upgrade and sell buttons can be displayed pressing on the red triangle next to the fast forward and next wave buttons.
 
 # Upgrades information
 
